@@ -102,7 +102,7 @@ This project is licensed under the **MIT License**.
 
 ## Contact 📧  
 For questions or suggestions:  
-- **Email**: vbhatt553@gmail.com  
+- **Email**: vbhatt552@gmail.com  
 - **GitHub**: [Vipul's GitHub](https://github.com/vbhatt552)  
 
 ---  
